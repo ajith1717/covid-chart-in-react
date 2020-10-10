@@ -1,0 +1,20 @@
+body {
+    background-color: cornsilk;
+}
+
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.image{
+    width: 250px;
+    /* display: flex; */
+    align-self: center;
+    /* justify-self: center; */
+    margin: (0px, 0px,0px, 70px);
+
+}
